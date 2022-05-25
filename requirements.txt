@@ -1,0 +1,14 @@
+beautifulsoup4
+bs4
+certifi
+charset-normalizer
+click
+idna
+importlib-metadata
+python-dateutil
+requests
+six
+soupsieve
+typing-extensions
+urllib3
+zipp
